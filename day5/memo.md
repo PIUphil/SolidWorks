@@ -12,4 +12,5 @@
 · 마우스 오른쪽으로 드래그하면 선택된 개체만 회전시킬 수 있음 
 · Ctrl+개체 드래그 → 복사  
   
-· Universal Joint => 다른곳으로 동력 전달
+· Universal Joint => 다른곳으로 동력 전달  
+![image](https://user-images.githubusercontent.com/58851945/159638862-cc96ed04-b0fc-4ef9-be70-a193fe708d59.png)
