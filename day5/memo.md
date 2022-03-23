@@ -22,3 +22,7 @@
   
     
 ![image](https://user-images.githubusercontent.com/58851945/159644327-0527e63f-5c87-47e8-8e69-d53264f8114a.png)
+  
+  
+· 어셈블리 - 참조 지오메트리 - 좌표계  
+· 평가 - 물성치 => 좌표값 보고기준 - 좌표계1
