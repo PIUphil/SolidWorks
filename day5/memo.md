@@ -14,3 +14,11 @@
   
 · Universal Joint => 다른곳으로 동력 전달  
 ![image](https://user-images.githubusercontent.com/58851945/159638862-cc96ed04-b0fc-4ef9-be70-a193fe708d59.png)
+  
+  
+· 스마트 메이트(Alt메이트)  
+  - alt키 누른채 모서리를 드래그하여 끼워맞춤 - 방향바꾸기(tab키)  
+![image](https://user-images.githubusercontent.com/58851945/159643271-03819b24-9e83-4b5a-8e16-1c6bcc7d0618.png)
+  
+    
+![image](https://user-images.githubusercontent.com/58851945/159644327-0527e63f-5c87-47e8-8e69-d53264f8114a.png)
